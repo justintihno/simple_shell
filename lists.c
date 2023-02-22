@@ -1,6 +1,6 @@
-lists.c code
-
 #include "shell.h"
+#include <stddef.h>
+#include <stdlib.h>
 
 /**
  * add_node - adds a node to the start of the list
